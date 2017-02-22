@@ -1,0 +1,20 @@
+version: "2"
+services:
+  flink-jobmanager:
+    image: krlng/flink
+    ports:
+      - "8081:8081"
+    expose:
+      - "6123"
+    command: jobmanager
+
+  flink-taskmanager:
+    image: krlng/flink
+    expose:
+      - "6121"
+      - "6122"
+    depends_on:
+      - flink-jobmanager
+    links:
+      - flink-jobmanager
+    command: taskmanager
