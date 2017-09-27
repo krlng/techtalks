@@ -1,0 +1,9 @@
+{
+  "type" : "VISUALIZATION",
+  "name" : "zeppelin-bubblechart",
+  "description" : "Animated bubble chart",
+  "artifact" : "zeppelin-bubblechart@0.0.4",
+  "license" : "BSD-2-Clause",
+  "icon": "<svg viewBox='0 0 70 70'><circle cx='26' cy='28' stroke='black' style='stroke-width: 1px;' r='25' fill='seagreen'/><circle cx='42' cy='44' stroke='black' style='stroke-width: 1px;' r='20' fill='DodgerBlue'/>
+<circle cx='54' cy='24' stroke='black' style='stroke-width: 1px;' r='15' fill='crimson'/></svg>"
+}
