@@ -1,4 +1,4 @@
-#Apache Zeppelin: Visualisierung von Big-Data ~~and Streaming Daten~~
+# Apache Zeppelin: Visualisierung von Big-Data ~~and Streaming Daten~~
 
 Dieser Vortrag stellt zunächst Zeppelin sowie dessen Interpreter für gängige Big-Data-Tools wie Elasticsearch und Spark vor. Nach ersten Visualisierungen gibt er Tipps zum praktischen Umgang: Wozu nutzt man die Interpreter-API? Wie kann Cloud Storage beim Betrieb im Container helfen? 
 
