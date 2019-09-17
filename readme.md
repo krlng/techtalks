@@ -1,6 +1,6 @@
 # Public Tech-Talks
 
-This repo archives my public Tech-Talks and Presentations. Also checkout my developer podcast [InoTecCast](https://inoteccast.de/) (sorry, only in german).
+This repo archives my public Tech-Talks and Presentations. Also checkout my developer podcast [Techtiefen](https://techtiefen.de/) (sorry, only in german).
 
 Date  | Title | Event 
 ------------- | ------------- | ------------- 
@@ -12,4 +12,6 @@ Date  | Title | Event
 2018 April  | [Maschinelles lernen auf unbekannten Terrain – am Beispiel von Spotify's “DISCOVER WEEKLY”](https://www.dropbox.com/s/1fgpwhr523xyv7a/m3.pdf?dl=0) | [m3](https://www.m3-konferenz.de/veranstaltung-6301-maschinelles-lernen-auf-unbekanntem-terrain-%E2%80%93-am-beispiel-von-spotifys-%E2%80%9Cdiscover-weekly%E2%80%9D.html?id=6301)
 2018 September  | [PyData Workflow mit Jupyter Lab](https://github.com/krlng/d2d-jupyterlab) | [data2day](https://www.data2day.de/veranstaltung-7121-pydata-workflow-mit-jupyter-lab.html?id=7121)
 2019 April  | [PyData Workflow mit Jupyter Lab v2](https://github.com/krlng/d2d-jupyterlab) | [PyData Meetup](https://www.meetup.com/PyData-Suedwest/events/258321928/)
-2019 Mai  | Machine Learning Model Management – ein Framework-Vergleich, additional [Blog-Artikel 1](https://www.inovex.de/blog/how-to-manage-machine-learning-models/), [Blog-Artikel 2](https://www.inovex.de/blog/machine-learning-model-management/)| [m3](https://www.m3-konferenz.de/lecture.php?id=7774) | 
+2019 Mai  | [Machine Learning Model Management – ein Framework-Vergleich](https://www.dropbox.com/s/2uolzlqzcvr05iu/m3%20machine%20learning%20management_compressed.pdf?dl=1), additional [Blog-Artikel 1](https://www.inovex.de/blog/how-to-manage-machine-learning-models/), [Blog-Artikel 2](https://www.inovex.de/blog/machine-learning-model-management/)| [m3](https://www.m3-konferenz.de/lecture.php?id=7774) | 
+2019 September  | Why natural language is the next step in the AI evolution | [AIxIA](https://aixia.eu/speaker/nico-kreiling) | 
+2019 Octobber  | Entwicklung einer in-house AI-Plattform| [data2day](https://www.data2day.de/lecture.php?id=9416) | 
