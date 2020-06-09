@@ -15,4 +15,6 @@ Date  | Title | Event
 2019 Mai  | [Machine Learning Model Management – ein Framework-Vergleich](https://www.dropbox.com/s/2uolzlqzcvr05iu/m3%20machine%20learning%20management_compressed.pdf?dl=1), additional [Blog-Artikel 1](https://www.inovex.de/blog/how-to-manage-machine-learning-models/), [Blog-Artikel 2](https://www.inovex.de/blog/machine-learning-model-management/)| [m3](https://www.m3-konferenz.de/lecture.php?id=7774) | 
 2019 September  | [Why natural language is the next step in the AI evolution](https://www.dropbox.com/s/w9ewxla516tv170/aixia.pdf?dl=1) | [AIxIA](https://aixia.eu/speaker/nico-kreiling) | 
 2019 Octobber  | [Entwicklung einer in-house AI-Plattform](https://www.dropbox.com/s/pvhw6gq71c2sdub/d2d%20ai%20platforms.pdf?dl=1) | [data2day](https://www.data2day.de/lecture.php?id=9416) | 
-2019 März  | Einführung in datengetriebene Projekte | [ml-essentials](https://ml-essentials.de/lecture.php?id=10730) | 
+2020 März  | [Einführung in datengetriebene Projekte: Survived on the Titanic](https://github.com/krlng/titanic) | [ml-essentials](https://ml-essentials.de/lecture.php?id=10730) | 
+2020 Juni  | [Professionelles arbreiten mit Jupyter Notebooks](https://github.com/krlng/2020_m3_online) | [m3 online](https://online.m3-konferenz.de/lecture.php?id=12332) | 
+2020 November  | AutoML – Wer braucht schon Data Scientists? | [m3](https://www.m3-konferenz.de/lecture.php?id=11457) | 
