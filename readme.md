@@ -19,4 +19,6 @@ Date  | Title | Event
 2020 Jun  | [Professionelles arbreiten mit Jupyter Notebooks](https://github.com/krlng/2020_m3_online) | [m3 online](https://online.m3-konferenz.de/lecture.php?id=12332) 
 2021 Nov  | [A picture is worth a thousand words - Visual Data Exploration](https://github.com/krlng/py-dashboarding/blob/main/py-dashboarding/notebooks/Correlcon.ipynb) | [CorrelCon](https://correlaid.org/en/events/2021-11/correlcon/) 
 2022 Jun | [Workshop: Visual Data Exploration with python](https://github.com/krlng/py-dashboarding/blob/main/py-dashboarding) | [DataLift](https://www.thedatalift.eu/) 
+2022 Jun | [Beyond Notebooks: Interaktive Datenverarbeitung mit Dashboards](https://www.m3-konferenz.de/veranstaltung-14111-0-beyond-notebooks-interaktive-datenverarbeitung-mit-dashboards.html) | [m3](https://www.m3-konferenz.de/index.php) 
+ |  |  
 
