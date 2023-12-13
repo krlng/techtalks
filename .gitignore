@@ -1,1 +1,10 @@
+__pycache__
+mlruns
+.ppt
+.pptx
+.git
+.ipynb_checkpoints
+.DS_Store
+private
+pydata
 .idea

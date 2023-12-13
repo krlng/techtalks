@@ -1,0 +1,11 @@
+old
+guild-env
+Untitled.ipynb
+.ipynb_checkpoints
+__pycache__
+.vscode
+cache
+results
+/*.py
+model_preperation.py
+.DS_Store

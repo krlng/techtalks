@@ -1,0 +1,9 @@
+{
+  "type" : "VISUALIZATION",
+  "name" : "zeppelin-highcharts-heatmap",
+  "version" : "local",
+  "description": "Heatmap chart using highcharts library",
+  "artifact" : "/Users/lambda/github/1ambda/zeppelin-highcharts-heatmap",
+  "icon": "<i class=\"fa fa-th\"></i>",
+  "license": "Highcharts (https://shop.highsoft.com/faq/licensing)"
+}

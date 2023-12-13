@@ -1,0 +1,2 @@
+
+jupyter labextension install @jupyterlab/toc @8080labs/qgrid@1.1.1 @ryantam626/jupyterlab_sublime plotlywidget jupyterlab-plotly bamboolib
