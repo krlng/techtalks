@@ -25,3 +25,6 @@ Date  | Title | Event
   2023 Mai   | [Eine Einführung in Polars von einem Pandas-Fan](https://www.scieneers.de/wp-content/uploads/2023/04/2023_polars.pdf) | [M3 2023](https://www.m3-konferenz.de/veranstaltung-20014-0-eine-einfuehrung-in-polars-von-einem-pandas-fan.html)
  2023 Dez | [Wie Generative KI eine Personalisierungs-Revolution auslöst](https://www.dropbox.com/s/goz704rg3udp6dk/2023_ittage.pdf?dl=1) | [IT-Tage 2023](https://www.ittage.informatik-aktuell.de/programm/2023/wie-generative-ki-eine-personalisierungs-revolution-ausloest.html) 
  2024 Jan | [More than the sum of its parts - Building Multi-Agent systems with AutoGen](https://www.meetup.com/cologne-ai-and-machine-learning-meetup/events/296506410/) | 
+ 2024 Sep | [Content Search - Datensilos verbinden mittels Multi-Agenten-System](https://www.scieneers.de/wp-content/uploads/2024/09/data2day-ContentSearch-export-website.pdf)
+ [Data2Day](https://www.data2day.de/veranstaltung-22232-0-silox-gpt-datensilos-verbinden-mittels-multi-agenten-system.html) | 
+ 2024 Nov | Content Search - Datensilos verbinden mittels Multi-Agenten-System | KI Navigator
